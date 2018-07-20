@@ -1,0 +1,22 @@
+{
+  "name": "command-line-word-guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinwn/command-line-word-guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinwn/command-line-word-guess/issues"
+  },
+  "homepage": "https://github.com/martinwn/command-line-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
